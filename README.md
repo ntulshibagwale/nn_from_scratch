@@ -2,7 +2,9 @@
 3-layer neural network for handwritten digit classification translated from Andrew Ng coursera assignment in MATLAB. Runs 200 iterations to optimize cost and traing parameters using scipy.minimize. Visualizes the weights from the input layer to hidden layer.
 
 Input Layer: 400 input unit for 20x20 unrolled image + 1 bias unit
+
 Hidden Layer: 25 hidden units + 1 bias unit
+
 Output Layer: 10 output units used for classification [0->9]
 
 Data:
