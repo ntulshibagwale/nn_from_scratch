@@ -1,9 +1,9 @@
 """
 
 Nick Tulshibagwale
-12-27-2021
+12-28-2021
 
-neural_network_functions
+nn_functions
 
 Functions used for creating 3 layer neural network in neural_network_main.
 
