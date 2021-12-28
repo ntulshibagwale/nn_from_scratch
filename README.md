@@ -3,11 +3,11 @@
 
 Layers:
 
-    Input Layer: 400 input unit for 20x20 unrolled image + 1 bias unit
+    Input Layer -> 400 input unit for 20x20 unrolled image + 1 bias unit
 
-    Hidden Layer: 25 hidden units + 1 bias unit
+    Hidden Layer -> 25 hidden units + 1 bias unit
 
-    Output Layer: 10 output units used for classification [0->9]
+    Output Layer -> 10 output units used for classification [0->9]
 
 Data:
 
