@@ -1,7 +1,9 @@
 """
 
 Nick Tulshibagwale
-12-27-2021
+12-28-2021
+
+nn_main
 
 3 layer neural network coded 'from scratch' using Andrew Ng course, translated
 from MATLAB. Used to recognized hand written digits.
