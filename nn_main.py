@@ -6,7 +6,8 @@ Nick Tulshibagwale
 nn_main
 
 3 layer neural network coded 'from scratch' using Andrew Ng course, translated
-from MATLAB. Used to recognized hand written digits.
+from MATLAB. Used to recognized hand written digits. Eventually will be used
+for spectrogram testing.
 
 Input Layer: 400 input unit for 20x20 unrolled image + 1 bias unit
 Hidden Layer: 25 hidden units + 1 bias unit
