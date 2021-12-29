@@ -14,7 +14,7 @@ for spectrogram testing.
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import minimize
-from neural_network_functions import *
+from nn_functions import *
         
 if __name__=='__main__':
     
