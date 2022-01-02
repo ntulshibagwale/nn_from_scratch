@@ -1,4 +1,4 @@
-# nn_from_scratch
+# vanilla_nn_3_layer
 3-layer neural network for handwritten digit classification translated from Andrew Ng coursera assignment in MATLAB (written without ML library).
 
 Layers:
