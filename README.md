@@ -20,3 +20,5 @@ Data:
     theta2.csv -> shape[10x26]; optimized weights from hidden layer to output
 
 The program will generate random initial weight matrices and optimize their values by minimizing the neural network cost function. The optimizer uses weight gradients computed using backpropagation. The optimizing algorithm is from scipy optimization library called Newton Conjugate Gradient, and it runs for 200 iterations. Data is shuffled and split 80% into training and 20% into test data. The program will output the model accuracy on the training data and the visualization of the activation of each the hidden layer units.
+
+1/1/2021: verified backpropagation (gradient) and cost against coursera code and other online implementation: https://github.com/sachin-101/Machine-Learning-by-Andrew-Ng-Implementation-in-Python/tree/master/Programming%20Assignments/Exercise%204
